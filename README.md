@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Ellen%20Caroline&fontSize=50&fontColor=e94560&fontAlignY=38&desc=DBA%20Estagiária%20%40%20Banco%20ABC%20Brasil%20%7C%20ADS%20%40%20PUC%20PR%20%7C%20Full%20Stack%20Dev&descAlignY=58&descSize=15&descColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f9a8d4,33:d8b4fe,66:fde68a,100:c084fc&height=200&section=header&text=Ellen%20Caroline&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=DBA%20Estagiária%20%40%20Banco%20ABC%20Brasil%20%7C%20ADS%20%40%20PUC%20PR%20%7C%20Full%20Stack%20Dev&descAlignY=58&descSize=15&descColor=ffffff" />
 
 </div>
 
@@ -42,17 +42,17 @@ SELECT
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SSMS](https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+### 💻 Linguagens
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### ☁️ Cloud & Monitoramento
 ![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
 ![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge&logo=zabbix&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-
-### 💻 Linguagens
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### ⚙️ Frameworks & Versionamento
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
@@ -104,8 +104,14 @@ SELECT
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=ellencaroline16&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=e94560&icon_color=e94560"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellencaroline16&layout=compact&langs_count=7&theme=dark&title_color=e94560"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=ellencaroline16&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellencaroline16&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+![Snake animation](https://github.com/ellencaroline16/ellencaroline16/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
@@ -117,6 +123,6 @@ SELECT
 
 **Ela/Dela 💜 | Construindo um futuro como DBA Junior 🗄️**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c084fc,33:fde68a,66:d8b4fe,100:f9a8d4&height=100&section=footer" />
 
 </div>
