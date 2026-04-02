@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f9a8d4,33:d8b4fe,66:fde68a,100:c084fc&height=200&section=header&text=Ellen%20Caroline&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=DBA%20Estagiária%20%40%20Banco%20ABC%20Brasil%20%7C%20ADS%20%40%20PUC%20PR%20%7C%20Full%20Stack%20Dev&descAlignY=58&descSize=15&descColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f9a8d4,33:d8b4fe,66:fde68a,100:c084fc&height=200&section=header&text=Ellen%20Caroline&fontSize=50&fontColor=4a1d8a&fontAlignY=38&desc=DBA%20Estagiária%20%40%20Banco%20ABC%20Brasil%20%7C%20ADS%20%40%20PUC%20PR%20%7C%20Full%20Stack%20Dev&descAlignY=58&descSize=15&descColor=5b21b6" />
 
 </div>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ec--silva-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ec-silva/)
-[![Gmail](https://img.shields.io/badge/Gmail-esilva.tech-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:esilva.tech@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-ellencaroline16-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ellencaroline16)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ec--silva-c084fc?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ec-silva/)
+[![Gmail](https://img.shields.io/badge/Gmail-esilva.tech-f9a8d4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:esilva.tech@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-ellencaroline16-a855f7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ellencaroline16)
 
 </div>
 
@@ -41,10 +41,10 @@ SELECT
 ### 🗄️ Banco de Dados — foco principal
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SSMS](https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![SSMS](https://img.shields.io/badge/SSMS-a855f7?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 ### 💻 Linguagens
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-c084fc?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -62,7 +62,7 @@ SELECT
 
 ### 📋 Processos & Gestão
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-a855f7?style=for-the-badge&logo=scrumalliance&logoColor=white)
 
 </div>
 
@@ -104,14 +104,9 @@ SELECT
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=ellencaroline16&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellencaroline16&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=ellencaroline16&theme=rose_pine&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D&background=FDF4FF&ring=c084fc&fire=f9a8d4&currStreakLabel=a855f7&sideLabels=a855f7&dates=c084fc&currStreakNum=4a1d8a&sideNums=4a1d8a)](https://git.io/streak-stats)
 
-</div>
-
-<div align="center">
-
-![Snake animation](https://github.com/ellencaroline16/ellencaroline16/blob/output/github-contribution-grid-snake.svg)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ellencaroline16&layout=compact&langs_count=6&hide_border=true&bg_color=FDF4FF&title_color=4a1d8a&text_color=5b21b6)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
